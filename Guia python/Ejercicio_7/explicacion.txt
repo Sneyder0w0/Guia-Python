@@ -1,0 +1,16 @@
+En este "paquete" de python se realizo el ejercicio 7.1 siguiendo el siguiente orden:
+
+1- esto se sustituyó con la creación del paquete:
+# Crea un archivo mis_matematicas.py con funciones
+
+2- realizado en el archivo "modulo_1.py"
+# - suma, resta, multiplicación, división
+
+3- realizado en el archivo "modulo_2.py"
+# - factorial
+
+4- realizado dentro del subpaquete en el archivo "modulo_3.py"
+# - es_primo (que determine si un número es primo)
+
+5- Realizado en el archivo "main.py"
+# Luego, importa y usa estas funciones desde otro archivo
